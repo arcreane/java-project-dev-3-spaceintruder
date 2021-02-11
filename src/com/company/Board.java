@@ -345,7 +345,6 @@ public class Board extends JPanel {
     private class GameCycle implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
-
             doGameCycle();
         }
     }
