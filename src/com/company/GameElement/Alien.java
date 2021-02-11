@@ -1,8 +1,8 @@
-package com.company.sprite;
+package com.company.GameElement;
 
 import javax.swing.ImageIcon;
 
-public class Alien extends Sprite {
+public class Alien extends GameElement {
 
     private Bomb bomb;
 
@@ -34,7 +34,7 @@ public class Alien extends Sprite {
         return bomb;
     }
 
-    public class Bomb extends Sprite {
+    public class Bomb extends GameElement {
 
         private boolean destroyed;
 

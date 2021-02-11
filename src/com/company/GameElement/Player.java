@@ -1,11 +1,11 @@
-package com.company.sprite;
+package com.company.GameElement;
 
 import com.company.Commons;
 
 import javax.swing.ImageIcon;
 import java.awt.event.KeyEvent;
 
-public class Player extends Sprite {
+public class Player extends GameElement {
 
     private int m_iWidth;
 

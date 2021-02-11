@@ -1,8 +1,8 @@
-package com.company.sprite;
+package com.company.GameElement;
 
 import javax.swing.ImageIcon;
 
-public class Shot extends Sprite {
+public class Shot extends GameElement {
 
     public Shot() {
     }

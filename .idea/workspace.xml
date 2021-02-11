@@ -24,7 +24,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.SpaceIntruder" />
       <module name="java-project-dev-3-spaceintruder" />
       <RunnerSettings RunnerId="Run" />
@@ -35,7 +35,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Run" />
       </list>
     </recent_temporary>
   </component>
@@ -51,9 +51,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="225" y="88" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613048482567">
+    <state x="225" y="88" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613048818114">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="225" y="88" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1613048482567" />
+    <state x="225" y="88" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1613048818114" />
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1613048538878">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1613048538878" />
+    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1613048538877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1613048538877" />
+    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1613048538877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1613048538877" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1613048538878">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1613048538878" />
   </component>
 </project>

@@ -1,8 +1,8 @@
 package com.company;
 
-import com.company.sprite.Alien;
-import com.company.sprite.Player;
-import com.company.sprite.Shot;
+import com.company.GameElement.Alien;
+import com.company.GameElement.Player;
+import com.company.GameElement.Shot;
 
 import javax.swing.ImageIcon;
 import javax.swing.JPanel;

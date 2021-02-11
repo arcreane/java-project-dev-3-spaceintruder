@@ -1,8 +1,8 @@
-package com.company.sprite;
+package com.company.GameElement;
 
 import java.awt.Image;
 
-public class Sprite {
+public class GameElement {
 
     private boolean m_bVisible;
     private Image image;
@@ -12,7 +12,7 @@ public class Sprite {
     int m_iY;
     int m_iVelocity;
 
-    public Sprite() {
+    public GameElement() {
 
         m_bVisible = true;
     }
