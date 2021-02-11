@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/java-project-dev-3-spaceintruder.iml" filepath="$PROJECT_DIR$/.idea/java-project-dev-3-spaceintruder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-project-dev-3-spaceintruder.iml" filepath="$PROJECT_DIR$/java-project-dev-3-spaceintruder.iml" />
     </modules>
   </component>
 </project>
